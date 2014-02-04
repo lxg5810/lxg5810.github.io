@@ -80,7 +80,7 @@ display: inline-block; padding-right: 1px;}
 .work-place img{width: 31%; float: left; padding-right:5px;}
 .work-place p{font-size: 12px; padding-top: 7px;}
 
-
+.sidebar h2{margin-right: -15px;}
 
 
 @media all and (min-width: 481px) and (max-width: 992px) {
